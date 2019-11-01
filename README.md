@@ -1,5 +1,7 @@
 ### This package converts apostrophe-connecting words to their standard lexicon form
 
+[Link to npm package](https://www.npmjs.com/package/apos-to-lex-form)
+
 # Install
 ```
 $ npm i -s 'apos-to-lex-form'
