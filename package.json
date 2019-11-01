@@ -1,6 +1,6 @@
 {
   "name": "apos-to-lex-form",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package converts apostrophe-connecting words to their standard lexicon form",
   "main": "index.js",
   "scripts": {
