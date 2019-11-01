@@ -1,4 +1,7 @@
 # Usage
+
+npm i -s 'apos-to-lex-form'
+
 ```
 const aposToLexForm = require('apos-to-lex-form');
 ```
